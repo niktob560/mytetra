@@ -39,6 +39,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: Pull exporter
         run: ssh -p221 -o StrictHostKeyChecking=no -i ../private.key mytetra@niktob.ddns.net "./update.sh"
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
