@@ -100,18 +100,6 @@
      <record id="1611212401ef8p2jitix" name="Полезное" author="" url="" tags="" ctime="20210121100001" dir="161121240153o43gzdde" file="text.html" block="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1598966466eq6g8zqwqr" name="ФОПИ">
-    <recordtable>
-     <record id="1598966523cl080mlfnp" name="_base_3_sem" author="" url="" tags="" ctime="20200901162203" dir="1598966523ayfgf3vlf1" file="text.html" block="1"/>
-     <record id="1598967785rfjkmbookv" name="01_09_2020" author="" url="" tags="" ctime="20200901164305" dir="1598967785tf6eu5kizj" file="text.html" block="1"/>
-     <record id="1599127873ytu05no9xn" name="02_09_2020" author="" url="" tags="" ctime="20200903131113" dir="1599127873jlz2qq5hfg" file="text.html" block="1"/>
-     <record id="1600150283cdhrd8xtoe" name="15_09_2020" author="" url="" tags="" ctime="20200915091123" dir="1600150283f0orhy7dxn" file="text.html" block="1"/>
-     <record id="1600249496mwra3c9kfu" name="16_09_2020" author="" url="" tags="" ctime="20200916124456" dir="1600249496y96fr8vf22" file="text.html" block="1"/>
-     <record id="1601459011hu98t1q4yg" name="30_09_2020" author="" url="" tags="" ctime="20200930124331" dir="1601459011t3e09yl2ze" file="text.html" block="1"/>
-     <record id="1602668532yftrkukbgu" name="14_10_2020" author="" url="" tags="Тензорезистор" ctime="20201014124212" dir="160266853209sdh4ymjj" file="text.html" block="1"/>
-     <record id="1605090274jy9wpjvjrj" name="11_11_2020" author="" url="" tags="" ctime="20201111132434" dir="1605090274mcofv2t53a" file="text.html"/>
-    </recordtable>
-   </node>
    <node crypt="" id="1599485191tjp78t8a8o" name="Электротехника">
     <recordtable>
      <record id="1599485217hgidwxfjvd" name="07.09.2020" author="" url="" tags="" ctime="20200907162657" dir="15994852178xyxl6qtwz" file="text.html" block="1"/>
@@ -123,12 +111,15 @@
      <record id="16139926603el9msl1tw" name="22.02.2021" author="" url="" tags="" ctime="20210222141740" dir="161399266087265g05hd" file="text.html" block="1"/>
      <record id="16158017601pylonbkfd" name="ЛР 15.03.2021" author="" url="" tags="" ctime="20210315124920" dir="1615801760x5shioqbm0" file="text.html"/>
      <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html"/>
+     <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1613395548vlpef376dh" name="Цифровые измерительные приборы">
     <recordtable>
      <record id="1613395560wfddabmapw" name="15.02.2021" author="" url="" tags="" ctime="20210215162600" dir="1613395560vxxlrc4zyy" file="text.html" block="1"/>
      <record id="1614607947a968jnk9m6" name="01.03.2021" author="" url="" tags="" ctime="20210301171227" dir="1614607947eaqn53v23n" file="text.html" block="1"/>
+     <record id="1616594019pchqazk46z" name="24.03.2021" author="" url="" tags="" ctime="20210324165339" dir="1616594019p645jisms0" file="text.html"/>
+     <record id="1617024650igjsa3ej93" name="29.03.2021" author="" url="" tags="" ctime="20210329163050" dir="16170246506vk3x2jzdj" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="1" icon="" id="16134089946wr2aaqija" name="UkM1U0lNUAOwNmgRqnsM+WXFyXdWwGgqexLi4fi0OYF0Z7maiWyyLEzxWFWG9Zrcx84j4ghbdkA=">
@@ -150,7 +141,27 @@
    <node crypt="" id="1615288937yq6si6ke75" name="Основы конструирования и технологии приборостроения">
     <recordtable>
      <record id="1615288961hd5ya076k8" name="09.03.2020" author="" url="" tags="" ctime="20210309142241" dir="1615288961247pc6bc0i" file="text.html"/>
+     <record id="1616498886uuzfkul719" name="23.03.2021" author="" url="" tags="" ctime="20210323142806" dir="1616498886allufntp2z" file="text.html"/>
     </recordtable>
+   </node>
+   <node crypt="" id="1616419323twxkrzvn25" name="ФОПИ">
+    <node crypt="" id="16164193693czxssgpgw" name="C4">
+     <recordtable>
+      <record id="16164194033ai2lnfxc0" name="22.03.2021" author="" url="" tags="" ctime="20210322162323" dir="1616419403r3nyhg2lgq" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1616419374qj4j1e38l2" name="C3">
+     <recordtable>
+      <record id="1598967785rfjkmbookv" name="01_09_2020" author="" url="" tags="" ctime="20210322162314" dir="1598967785tf6eu5kizj" file="text.html" block="1"/>
+      <record id="1598966523cl080mlfnp" name="_base_3_sem" author="" url="" tags="" ctime="20210322162317" dir="1598966523ayfgf3vlf1" file="text.html" block="1"/>
+      <record id="1599127873ytu05no9xn" name="02_09_2020" author="" url="" tags="" ctime="20210322162335" dir="1599127873jlz2qq5hfg" file="text.html" block="1"/>
+      <record id="1600150283cdhrd8xtoe" name="15_09_2020" author="" url="" tags="" ctime="20210322162338" dir="1600150283f0orhy7dxn" file="text.html" block="1"/>
+      <record id="1600249496mwra3c9kfu" name="16_09_2020" author="" url="" tags="" ctime="20210322162341" dir="1600249496y96fr8vf22" file="text.html" block="1"/>
+      <record id="1601459011hu98t1q4yg" name="30_09_2020" author="" url="" tags="" ctime="20210322162343" dir="1601459011t3e09yl2ze" file="text.html" block="1"/>
+      <record id="1602668532yftrkukbgu" name="14_10_2020" author="" url="" tags="Тензорезистор" ctime="20210322162345" dir="160266853209sdh4ymjj" file="text.html" block="1"/>
+      <record id="1605090274jy9wpjvjrj" name="11_11_2020" author="" url="" tags="" ctime="20210322162347" dir="1605090274mcofv2t53a" file="text.html" block="1"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="1" icon="" id="1577889786vil8g877ri" name="UkM1U0lNUAMK9Yb6EG1NlLCx/jzUTwVjqGeKWExjkHmrtKPFYZnqD1lJ2qmVzg5h">
