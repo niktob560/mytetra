@@ -32,6 +32,13 @@
      <record id="16172751563obwn1srqu" name="UkM1U0lNUAOkcOm2q8Ro/RrW7DSPS3OQuOrnfMM7I6hRXpJt/e+YAI2HeCWUs5Lkz8kkN1pYyx8b9UymIYfcqqXK9UGekukVV3BSL/9t9s9DJ6jRJf0We48BtVGJ33evltkcTIFwxQiEzF30pdkn0Q==" author="UkM1U0lNUAP/ETvbslJUUmlau8xUC5bnD4OUSpg93C7rQizu0aBng1RUm8SfVSRSntUgJjJpF2Y=" url="UkM1U0lNUAO6Z3hLSOjBJJA4O7ivC4utvdIeu68S87EMspJ8/eNQkOxvFtOG6dGuCWjAi5oabOX5s8qxM7+2tL3maRzOVy69FUxhL5vqSlNinLYHkBeDAA==" tags="UkM1U0lNUAN23FipEEFNgOXRh2wfraOG/i/vdnvrOuWB8kYtD7lhgY0LurMjhXbCeHRqADTG/ngrVcIHb8v7rQxPMzB22SgPaO7ciEErZgNjIJkaN+YK4RlaJrtOAgn45ny6LutyMv0R58fANGZciB1kg/Ts8NXcXUD0n3dJhvs=" ctime="20210401140556" dir="1617275156mx3fkkeuot" file="text.html" crypt="1" block="1"/>
     </recordtable>
    </node>
+   <node crypt="1" icon="" id="161782471061lyp1bk9s" name="UkM1U0lNUANfT53qT2y2DMDdkYZlZzGN1FZ99N+C7fAOiKkhqqHUcPaeAvsX8+0z">
+    <recordtable>
+     <record id="1617824718e7lhopme4v" name="UkM1U0lNUAPhjPDJjbFk7Bk4IdBPMa8rn4pL8v8e3zCZZbEfhYU3R+w2eR0dy7MNouIJFnfLW/oG7pOQsM1n2VwN9GaG7VxOGi5QIyREnKA=" author="" url="" tags="" ctime="20210407224518" dir="1617824718n00wa0nly4" file="text.html" crypt="1"/>
+     <record id="1617824789jzh3nb50m7" name="UkM1U0lNUAM0YOg0KL2AzPunauMCWopmx7eM32qy3OU9AbjRRDFeq91SB3bIFR8u+eTOZbbkHzNxMfJfoGfhsw==" author="" url="" tags="" ctime="20210407224629" dir="1617824789rx1c09ym8f" file="text.html" crypt="1"/>
+     <record id="1617824840jr9iu71rl9" name="UkM1U0lNUANHrsuYeedJtkGPYjRxxu/tJV7/YrQP2RMnsAZs+74Yz1cFfB1cH4wvSMn6ajTrGyNKsKr0QaGwAw==" author="" url="" tags="" ctime="20210407224720" dir="1617824840zvzceq70xr" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1576087492aczaqzgxsx" name="МИРЭА">
    <node crypt="" id="157608749854j0k0284q" name="История">
@@ -118,6 +125,7 @@
      <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html"/>
      <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html"/>
      <record id="1617362761zxkccvdfvq" name="02.04.2021" author="" url="" tags="" ctime="20210402142601" dir="16173627612d2eq4bufa" file="text.html"/>
+     <record id="1617625326d5dwofzkzn" name="05.04.2021" author="" url="" tags="" ctime="20210405152206" dir="1617625326koeotzhw2z" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1613395548vlpef376dh" name="Цифровые измерительные приборы">
@@ -148,12 +156,14 @@
     <recordtable>
      <record id="1615288961hd5ya076k8" name="09.03.2020" author="" url="" tags="" ctime="20210309142241" dir="1615288961247pc6bc0i" file="text.html"/>
      <record id="1616498886uuzfkul719" name="23.03.2021" author="" url="" tags="" ctime="20210323142806" dir="1616498886allufntp2z" file="text.html"/>
+     <record id="16177083550qx8fo481a" name="06.04.2021" author="" url="" tags="" ctime="20210406142555" dir="1617708355uutixzbf3m" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1616419323twxkrzvn25" name="ФОПИ">
     <node crypt="" id="16164193693czxssgpgw" name="C4">
      <recordtable>
       <record id="16164194033ai2lnfxc0" name="22.03.2021" author="" url="" tags="" ctime="20210322162323" dir="1616419403r3nyhg2lgq" file="text.html"/>
+      <record id="1617629084f8s7v86sdd" name="05.04.2021" author="" url="" tags="" ctime="20210405162444" dir="16176290844x0u9hwzu2" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1616419374qj4j1e38l2" name="C3">
