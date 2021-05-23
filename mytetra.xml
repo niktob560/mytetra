@@ -122,26 +122,26 @@
     <recordtable>
      <record id="1613388143o5b2c97a73" name="15.02.2021" author="" url="" tags="" ctime="20210215142223" dir="1613388143h23ne5v0h1" file="text.html" block="1"/>
      <record id="16139926603el9msl1tw" name="22.02.2021" author="" url="" tags="" ctime="20210222141740" dir="161399266087265g05hd" file="text.html" block="1"/>
-     <record id="16158017601pylonbkfd" name="ЛР 15.03.2021" author="" url="" tags="" ctime="20210315124920" dir="1615801760x5shioqbm0" file="text.html"/>
-     <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html"/>
-     <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html"/>
-     <record id="1617362761zxkccvdfvq" name="02.04.2021" author="" url="" tags="" ctime="20210402142601" dir="16173627612d2eq4bufa" file="text.html"/>
-     <record id="1617625326d5dwofzkzn" name="05.04.2021" author="" url="" tags="" ctime="20210405152206" dir="1617625326koeotzhw2z" file="text.html"/>
-     <record id="1618226631oe3fu52p0h" name="12.04.2021" author="" url="" tags="" ctime="20210412142351" dir="1618226631if3fpp09ut" file="text.html"/>
-     <record id="16194394784cf1t52sfd" name="26.04.2021" author="" url="" tags="" ctime="20210426151758" dir="1619439478mdee7r01c5" file="text.html"/>
-     <record id="1620991693d2e5fljlmc" name="14.05.2021" author="" url="" tags="" ctime="20210514142813" dir="16209916931nsulwfnpt" file="text.html"/>
-     <record id="1621244831m3kcru7okt" name="17.05.2021" author="" url="" tags="" ctime="20210517124711" dir="1621244831fyxxwzs10w" file="text.html"/>
+     <record id="16158017601pylonbkfd" name="ЛР 15.03.2021" author="" url="" tags="" ctime="20210315124920" dir="1615801760x5shioqbm0" file="text.html" block="1"/>
+     <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html" block="1"/>
+     <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html" block="1"/>
+     <record id="1617362761zxkccvdfvq" name="02.04.2021" author="" url="" tags="" ctime="20210402142601" dir="16173627612d2eq4bufa" file="text.html" block="1"/>
+     <record id="1617625326d5dwofzkzn" name="05.04.2021" author="" url="" tags="" ctime="20210405152206" dir="1617625326koeotzhw2z" file="text.html" block="1"/>
+     <record id="1618226631oe3fu52p0h" name="12.04.2021" author="" url="" tags="" ctime="20210412142351" dir="1618226631if3fpp09ut" file="text.html" block="1"/>
+     <record id="16194394784cf1t52sfd" name="26.04.2021" author="" url="" tags="" ctime="20210426151758" dir="1619439478mdee7r01c5" file="text.html" block="1"/>
+     <record id="1620991693d2e5fljlmc" name="14.05.2021" author="" url="" tags="" ctime="20210514142813" dir="16209916931nsulwfnpt" file="text.html" block="1"/>
+     <record id="1621244831m3kcru7okt" name="17.05.2021" author="" url="" tags="" ctime="20210517124711" dir="1621244831fyxxwzs10w" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1613395548vlpef376dh" name="Цифровые измерительные приборы">
     <recordtable>
      <record id="1613395560wfddabmapw" name="15.02.2021" author="" url="" tags="" ctime="20210215162600" dir="1613395560vxxlrc4zyy" file="text.html" block="1"/>
      <record id="1614607947a968jnk9m6" name="01.03.2021" author="" url="" tags="" ctime="20210301171227" dir="1614607947eaqn53v23n" file="text.html" block="1"/>
-     <record id="1616594019pchqazk46z" name="24.03.2021" author="" url="" tags="" ctime="20210324165339" dir="1616594019p645jisms0" file="text.html"/>
-     <record id="1617024650igjsa3ej93" name="29.03.2021" author="" url="" tags="" ctime="20210329163050" dir="16170246506vk3x2jzdj" file="text.html"/>
-     <record id="16182340860dmfkp0s4a" name="12.04.2021" author="" url="" tags="" ctime="20210412162806" dir="1618234086poqd808000" file="text.html"/>
-     <record id="1619443716jsee8cxggi" name="26.04.2021" author="" url="" tags="" ctime="20210426162836" dir="1619443716p0x841wifx" file="text.html"/>
-     <record id="162108494413yjs9walo" name="15.05.2021" author="" url="" tags="" ctime="20210515162224" dir="1621084944n95f44btbr" file="text.html"/>
+     <record id="1616594019pchqazk46z" name="24.03.2021" author="" url="" tags="" ctime="20210324165339" dir="1616594019p645jisms0" file="text.html" block="1"/>
+     <record id="1617024650igjsa3ej93" name="29.03.2021" author="" url="" tags="" ctime="20210329163050" dir="16170246506vk3x2jzdj" file="text.html" block="1"/>
+     <record id="16182340860dmfkp0s4a" name="12.04.2021" author="" url="" tags="" ctime="20210412162806" dir="1618234086poqd808000" file="text.html" block="1"/>
+     <record id="1619443716jsee8cxggi" name="26.04.2021" author="" url="" tags="" ctime="20210426162836" dir="1619443716p0x841wifx" file="text.html" block="1"/>
+     <record id="162108494413yjs9walo" name="15.05.2021" author="" url="" tags="" ctime="20210515162224" dir="1621084944n95f44btbr" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="1" icon="" id="16134089946wr2aaqija" name="UkM1U0lNUAOwNmgRqnsM+WXFyXdWwGgqexLi4fi0OYF0Z7maiWyyLEzxWFWG9Zrcx84j4ghbdkA=">
@@ -163,9 +163,9 @@
    </node>
    <node crypt="" id="1615288937yq6si6ke75" name="Основы конструирования и технологии приборостроения">
     <recordtable>
-     <record id="1615288961hd5ya076k8" name="09.03.2020" author="" url="" tags="" ctime="20210309142241" dir="1615288961247pc6bc0i" file="text.html"/>
-     <record id="1616498886uuzfkul719" name="23.03.2021" author="" url="" tags="" ctime="20210323142806" dir="1616498886allufntp2z" file="text.html"/>
-     <record id="16177083550qx8fo481a" name="06.04.2021" author="" url="" tags="" ctime="20210406142555" dir="1617708355uutixzbf3m" file="text.html"/>
+     <record id="1615288961hd5ya076k8" name="09.03.2020" author="" url="" tags="" ctime="20210309142241" dir="1615288961247pc6bc0i" file="text.html" block="1"/>
+     <record id="1616498886uuzfkul719" name="23.03.2021" author="" url="" tags="" ctime="20210323142806" dir="1616498886allufntp2z" file="text.html" block="1"/>
+     <record id="16177083550qx8fo481a" name="06.04.2021" author="" url="" tags="" ctime="20210406142555" dir="1617708355uutixzbf3m" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1616419323twxkrzvn25" name="ФОПИ">
