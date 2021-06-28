@@ -126,13 +126,12 @@
      <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="БПФ, обратное преобразование Фурье" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html" block="1"/>
      <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="виды фильтров" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html" block="1"/>
      <record id="1617362761zxkccvdfvq" name="02.04.2021" author="" url="" tags="КИХ, свёртка" ctime="20210402142601" dir="16173627612d2eq4bufa" file="text.html" block="1"/>
-     <record id="1617625326d5dwofzkzn" name="05.04.2021" author="" url="" tags="" ctime="20210405152206" dir="1617625326koeotzhw2z" file="text.html" block="1"/>
-     <record id="1618226631oe3fu52p0h" name="12.04.2021" author="" url="" tags="" ctime="20210412142351" dir="1618226631if3fpp09ut" file="text.html" block="1"/>
-     <record id="16194394784cf1t52sfd" name="26.04.2021" author="" url="" tags="" ctime="20210426151758" dir="1619439478mdee7r01c5" file="text.html" block="1"/>
-     <record id="1620991693d2e5fljlmc" name="14.05.2021" author="" url="" tags="" ctime="20210514142813" dir="16209916931nsulwfnpt" file="text.html" block="1"/>
-     <record id="1621244831m3kcru7okt" name="17.05.2021" author="" url="" tags="" ctime="20210517124711" dir="1621244831fyxxwzs10w" file="text.html" block="1"/>
-     <record id="16218558246bc0pn32m9" name="24.05.2021" author="" url="" tags="" ctime="20210524143024" dir="1621855824imjcolrfh1" file="text.html" block="1"/>
-     <record id="16222012399aq1164smr" name="28.05.2021" author="" url="" tags="" ctime="20210528142719" dir="1622201239lf9td2vmrn" file="text.html" block="1"/>
+     <record id="1617625326d5dwofzkzn" name="05.04.2021" author="" url="" tags="теорема о свёртке, свёртка" ctime="20210405152206" dir="1617625326koeotzhw2z" file="text.html" block="1"/>
+     <record id="1618226631oe3fu52p0h" name="12.04.2021" author="" url="" tags="БИХ" ctime="20210412142351" dir="1618226631if3fpp09ut" file="text.html" block="1"/>
+     <record id="16194394784cf1t52sfd" name="26.04.2021" author="" url="" tags="полюса, нули, стабильность фильтра" ctime="20210426151758" dir="1619439478mdee7r01c5" file="text.html" block="1"/>
+     <record id="1620991693d2e5fljlmc" name="14.05.2021" author="" url="" tags="Билинейное преобразование" ctime="20210514142813" dir="16209916931nsulwfnpt" file="text.html" block="1"/>
+     <record id="16218558246bc0pn32m9" name="24.05.2021" author="" url="" tags="Свёртка (подробнее), особенности технической реализации фильтров" ctime="20210524143024" dir="1621855824imjcolrfh1" file="text.html" block="1"/>
+     <record id="16222012399aq1164smr" name="28.05.2021" author="" url="" tags="Критерии выбора АЦП, структура системы сбора данных" ctime="20210528142719" dir="1622201239lf9td2vmrn" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1613395548vlpef376dh" name="Цифровые измерительные приборы">
