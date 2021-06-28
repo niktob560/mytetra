@@ -120,12 +120,12 @@
    </node>
    <node crypt="" id="1613388132yy6v2s6wqo" name="Методы и средства цифровой обработки сигналов">
     <recordtable>
-     <record id="1613388143o5b2c97a73" name="15.02.2021" author="" url="" tags="" ctime="20210215142223" dir="1613388143h23ne5v0h1" file="text.html" block="1"/>
-     <record id="16139926603el9msl1tw" name="22.02.2021" author="" url="" tags="" ctime="20210222141740" dir="161399266087265g05hd" file="text.html" block="1"/>
+     <record id="1613388143o5b2c97a73" name="15.02.2021" author="" url="" tags="Алгоритмы ЦОС, примеры сигналов" ctime="20210215142223" dir="1613388143h23ne5v0h1" file="text.html" block="1"/>
+     <record id="16139926603el9msl1tw" name="22.02.2021" author="" url="" tags="мнимые числа" ctime="20210222141740" dir="161399266087265g05hd" file="text.html" block="1"/>
      <record id="16158017601pylonbkfd" name="ЛР 15.03.2021" author="" url="" tags="" ctime="20210315124920" dir="1615801760x5shioqbm0" file="text.html" block="1"/>
-     <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html" block="1"/>
-     <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html" block="1"/>
-     <record id="1617362761zxkccvdfvq" name="02.04.2021" author="" url="" tags="" ctime="20210402142601" dir="16173627612d2eq4bufa" file="text.html" block="1"/>
+     <record id="1616153441309xxapngm" name="19.03.2021" author="" url="" tags="БПФ, обратное преобразование Фурье" ctime="20210319143041" dir="1616153441cjj3xn94k6" file="text.html" block="1"/>
+     <record id="1617017625n0o88o1w8o" name="29.03.2021" author="" url="" tags="виды фильтров" ctime="20210329143345" dir="1617017625qypubdfkny" file="text.html" block="1"/>
+     <record id="1617362761zxkccvdfvq" name="02.04.2021" author="" url="" tags="КИХ, свёртка" ctime="20210402142601" dir="16173627612d2eq4bufa" file="text.html" block="1"/>
      <record id="1617625326d5dwofzkzn" name="05.04.2021" author="" url="" tags="" ctime="20210405152206" dir="1617625326koeotzhw2z" file="text.html" block="1"/>
      <record id="1618226631oe3fu52p0h" name="12.04.2021" author="" url="" tags="" ctime="20210412142351" dir="1618226631if3fpp09ut" file="text.html" block="1"/>
      <record id="16194394784cf1t52sfd" name="26.04.2021" author="" url="" tags="" ctime="20210426151758" dir="1619439478mdee7r01c5" file="text.html" block="1"/>
